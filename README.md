@@ -47,7 +47,7 @@ Possuo mais de 4 anos de experiência na área de TI sendo quase 2 anos em supor
 
 
 <!-- Linkedin -->
-<a href="www.linkedin.com/in/monike-raduenz-falcao"><img align="left" alt="Linkedin" width="50px" style="padding-right:10px;" src="https://img.icons8.com/color/96/000000/linkedin.png"/>
+<a href="https://www.linkedin.com/in/monike-raduenz-falcao"><img align="left" alt="Linkedin" width="50px" style="padding-right:10px;" src="https://img.icons8.com/color/96/000000/linkedin.png"/>
 <!-- Gmail -->
 <a href="mailto:monikerfalcao@gmail.com"><img align="left" alt="Gmail" width="50px" style="padding-right:10px;" src="https://img.icons8.com/color/96/000000/gmail.png"/>
 <!-- WhatsApp -->
