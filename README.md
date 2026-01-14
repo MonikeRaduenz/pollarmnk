@@ -4,10 +4,10 @@
 
 <p>
 Olá meu nome é Monike Raduenz Falcão sou natural de Joinville - SC atualmente cursando Análise e Desenvolvimento de Sistemas na <strong>UDESC</strong>.<br>
-Possuo mais de 4 anos de experiência na área de TI sendo quase 2 anos em suporte de TI e mais de 2 anos na área de <strong>Dados/BI</strong>.
+Possuo mais de 4 anos de experiência na área de TI sendo mais de 2 anos na área de <strong>Dados/BI</strong> e cerca de 2 anos em suporte técnico.
 </p>
 
-### 🧰 Linguagens e Ferramentas
+### 🔧 Linguagens e Ferramentas
 
 <!-- Airflow -->
 <img align="left" alt="Airflow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" />
@@ -43,8 +43,39 @@ Possuo mais de 4 anos de experiência na área de TI sendo quase 2 anos em supor
 
 #
 
-### ☎️ Contatos
+### 📝 Experiências e Projetos
 
+<!-- Linkedin -->
+<details>
+  <summary><em><strong>Engenharia de Dados</strong></em></summary>
+    Fui membro ativo no planejamento do Pipeline de Dados, atuando na integração do <strong>CRM</strong>, <strong>ERP</strong> e outras fontes. Utilizei <strong>Postman</strong> para testes de API, DBT para estruturação, documentação, testes de Data Quality e Governança, Apache Airflow para orquestração do ETL e tratamento e por fim carregando todos os dados em uma base PostgreSQL utilizando Star Schema e Arquitetura Medallion.
+</details>
+
+<!-- Linkedin -->
+<details>
+  <summary><em><strong>Análise de Dados</strong></em></summary>
+    Cálculos avançados utilizando <strong>PL/pgSQL</strong> e <strong>Python</strong> (com a biblioteca Pandas e Numpy) sendo eles KPIs, métricas, variações, desvio de meta, taxa de conversão e outros cálculos específicos sendo base para dashboards, mensagens e e-mails interativos com periodicidade semanal e mensalmente.
+</details>
+
+<!-- Linkedin -->
+<details>
+  <summary><em><strong>Criação de Dashboards</strong></em></summary>
+    Construção de dashboards em <strong>Power BI</strong> e <strong>Looker Data Studio</strong>, seguindo a metodologia de Design Thinking, Design System na padronização dos layouts e realizando testes de usabilidade periódicos.
+</details>
+
+<!-- Linkedin -->
+<details>
+  <summary><em><strong>Automação de Processos</strong></em></summary>
+    Automação de processos internos e para outras áreas utilizando <strong>Power Automate</strong> em nível avançado principalmente para ferramentas Microsoft, <strong>scripts de Python</strong> para automação de envio de mensagens pelo WhatsApp utilizando a biblioteca Selenium e envio de e-mails, além de automação de processos no <strong>Zoho CRM</strong> ferramenta utilizada por cerca de <strong>200</strong> funcionários no qual utilizava linguagem Deluge baseada em JavaScript.
+</details>
+
+<!-- Linkedin -->
+<details>
+  <summary><em><strong>Web Scapping</strong></em></summary>
+    Web Scrapping de sites utilizando principalmente <strong>Selenium</strong> e orquestrando em uma Dag pelo Airflow, subindo os dados de forma <strong>incremental</strong> em uma tabela no PostgreSQL.
+</details>
+
+### ☎️ Contatos
 
 <!-- Linkedin -->
 <a href="https://www.linkedin.com/in/monike-raduenz-falcao"><img align="left" alt="Linkedin" width="50px" style="padding-right:10px;" src="https://img.icons8.com/color/96/000000/linkedin.png"/>
